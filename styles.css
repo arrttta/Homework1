@@ -1,0 +1,59 @@
+
+
+h1 {
+    font-size: 36pt;
+    font-family: 'Bebas Neue', cursive;
+    color: #451c53;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20pt;
+    color: #5b3d80;
+    text-align: center;
+}
+
+h3 {
+    font-size: 28pt;
+    font-family: 'Bebas Neue', cursive;
+    color: #451c53;
+    text-align: center;
+}
+
+h4 {
+    font-size: 15pt;
+    color: #5b3d80;
+    text-align: center;
+}
+
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.centretslinks {
+    text-align:center;
+    display:block;
+    font-size: 16pt;
+}
+
+.link {
+    font-family: 'Bebas Neue', cursive;
+    color: #451c53;
+    font-size: 15pt;
+}
+
+* {font-family: 'Poppins', sans-serif;
+background-color: #f0ecfe;
+}
+
